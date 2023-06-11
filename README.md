@@ -1,1 +1,1 @@
-# Data_Visualization_with_Python
+Data visualization and some of the best practices to keep in mind when creating plots and visuals. 
